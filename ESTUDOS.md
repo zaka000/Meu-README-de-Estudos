@@ -1,6 +1,6 @@
-- [] estudar fisica
-- [] estudar calculo 
+- [ ]  estudar fisica
+- [ ] estudar calculo 
 - [x] fazer o projeto cientifico
 - [x] estudar geofisica
-- [] estudar algebra aplicada
+- [ ] estudar algebra aplicada
 - [x] estudar Hmtl
